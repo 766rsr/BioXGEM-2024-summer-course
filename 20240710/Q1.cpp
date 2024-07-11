@@ -2,17 +2,17 @@
 
 int main() {
     char name[11];
-	char department;
+    char department;
     int test1, test2;
     double average;
 
     printf("Please input your name... ");
     scanf("%s", name);
     printf("Please select your department... (a:CS b:Bio c:Math) ");
-    
-	getchar();  
-	
-	scanf("%c", &department);
+
+    getchar();  
+
+    scanf("%c", &department);
     printf("Please input your score on test 1... ");
     scanf("%d", &test1);
     printf("Please input your score on test 2... ");
