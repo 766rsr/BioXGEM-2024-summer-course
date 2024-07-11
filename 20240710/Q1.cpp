@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    char name[11];
+    char name[30];
     char department;
     int test1, test2;
     double average;
