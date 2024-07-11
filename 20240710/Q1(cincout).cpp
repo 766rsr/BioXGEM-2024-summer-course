@@ -7,7 +7,7 @@ int main() {
     string name;
     char department;
     int test1, test2;
-    double average;
+    float average;
 
     cout << "Please input your name... ";
     cin >> name;

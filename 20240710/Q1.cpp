@@ -4,7 +4,7 @@ int main() {
     char name[30];
     char department;
     int test1, test2;
-    double average;
+    float average;
 
     printf("Please input your name... ");
     scanf("%s", name);
