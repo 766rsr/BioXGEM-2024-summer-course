@@ -1,3 +1,5 @@
 *.exe
 test.cpp
+test.py
+pytest.py
 /.vscode
