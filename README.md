@@ -1,1 +1,1 @@
-BreadcrumbsBioXGEM-2024-summer-course
+BioXGEM-2024-summer-course
